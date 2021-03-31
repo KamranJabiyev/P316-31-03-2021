@@ -1,0 +1,11 @@
+E:\P316\C#\StringBuilderRefOut\StringBuilderRefOut\bin\Debug\netcoreapp3.1\StringBuilderRefOut.exe
+E:\P316\C#\StringBuilderRefOut\StringBuilderRefOut\bin\Debug\netcoreapp3.1\StringBuilderRefOut.deps.json
+E:\P316\C#\StringBuilderRefOut\StringBuilderRefOut\bin\Debug\netcoreapp3.1\StringBuilderRefOut.runtimeconfig.json
+E:\P316\C#\StringBuilderRefOut\StringBuilderRefOut\bin\Debug\netcoreapp3.1\StringBuilderRefOut.runtimeconfig.dev.json
+E:\P316\C#\StringBuilderRefOut\StringBuilderRefOut\bin\Debug\netcoreapp3.1\StringBuilderRefOut.dll
+E:\P316\C#\StringBuilderRefOut\StringBuilderRefOut\bin\Debug\netcoreapp3.1\StringBuilderRefOut.pdb
+E:\P316\C#\StringBuilderRefOut\StringBuilderRefOut\obj\Debug\netcoreapp3.1\StringBuilderRefOut.csprojAssemblyReference.cache
+E:\P316\C#\StringBuilderRefOut\StringBuilderRefOut\obj\Debug\netcoreapp3.1\StringBuilderRefOut.AssemblyInfoInputs.cache
+E:\P316\C#\StringBuilderRefOut\StringBuilderRefOut\obj\Debug\netcoreapp3.1\StringBuilderRefOut.AssemblyInfo.cs
+E:\P316\C#\StringBuilderRefOut\StringBuilderRefOut\obj\Debug\netcoreapp3.1\StringBuilderRefOut.dll
+E:\P316\C#\StringBuilderRefOut\StringBuilderRefOut\obj\Debug\netcoreapp3.1\StringBuilderRefOut.pdb
